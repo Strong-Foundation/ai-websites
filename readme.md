@@ -29,5 +29,6 @@ This list highlights the most used free AI platforms similar to ChatGPT, chosen 
 | [Botpress](https://botpress.com/)                    | An open-source conversational AI platform that allows developers and businesses to build and deploy custom chatbots.                    |
 | [Beautiful.ai](https://www.beautiful.ai/)            | An AI-powered presentation maker that streamlines slide design, helping users create visually appealing decks effortlessly.             |
 | [SlidesAI](https://slidesai.io/)                     | A tool that generates professional presentations from text content, saving time for business and educational use.                       |
+| [Manus](https://manus.im/)                           ||
 
 Each of these tools has proven its impact across industries—from enhancing productivity and content creation to powering next-generation conversational experiences. Whether you’re a marketer, developer, or creative professional, these top 25 AI platforms are shaping the way we work and communicate in 2025.
